@@ -1,41 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
   <defs>
     <clipPath id="rounded">
-      <rect width="900" height="180" rx="10" ry="10"/>
+      <rect width="900" height="280" rx="10" ry="10"/>
     </clipPath>
   </defs>
   <g clip-path="url(#rounded)">
     <!-- Background -->
-    <rect width="900" height="180" fill="#0f0f0f" rx="10" ry="10"/>
+    <rect width="900" height="280" fill="#0f0f0f" rx="10" ry="10"/>
     <!-- Left red bar -->
-    <rect x="0" y="0" width="5" height="180" fill="#cc2200"/>
+    <rect x="0" y="0" width="5" height="280" fill="#cc2200"/>
     <!-- Right red bar -->
-    <rect x="895" y="0" width="5" height="180" fill="#cc2200"/>
+    <rect x="895" y="0" width="5" height="280" fill="#cc2200"/>
 
-    <!-- Glasses icon -->
+    <!-- Glasses icon — larger, top-left -->
     <!-- Left lens -->
-    <circle cx="50" cy="58" r="14" fill="none" stroke="#cc2200" stroke-width="2.5"/>
+    <circle cx="80" cy="70" r="24" fill="none" stroke="#cc2200" stroke-width="3"/>
     <!-- Right lens -->
-    <circle cx="84" cy="58" r="14" fill="none" stroke="#cc2200" stroke-width="2.5"/>
+    <circle cx="140" cy="70" r="24" fill="none" stroke="#cc2200" stroke-width="3"/>
     <!-- Bridge -->
-    <path d="M64 54 Q67 48 70 54" fill="none" stroke="#cc2200" stroke-width="2.5"/>
+    <path d="M104 64 Q110 54 116 64" fill="none" stroke="#cc2200" stroke-width="3"/>
     <!-- Left arm -->
-    <line x1="36" y1="54" x2="22" y2="50" stroke="#cc2200" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="56" y1="64" x2="30" y2="58" stroke="#cc2200" stroke-width="3" stroke-linecap="round"/>
     <!-- Right arm -->
-    <line x1="98" y1="54" x2="112" y2="50" stroke="#cc2200" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="164" y1="64" x2="190" y2="58" stroke="#cc2200" stroke-width="3" stroke-linecap="round"/>
 
-    <!-- Name -->
-    <text x="130" y="52" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="normal">Tanacha Gaines, EdD</text>
-    <!-- Subtitle -->
-    <text x="130" y="74" fill="#888888" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.5">LEARNING OPERATIONS · AI ENABLEMENT · PRODUCT SYSTEMS</text>
+    <!-- Name — below glasses -->
+    <text x="55" y="140" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="bold">Tanacha Gaines, EdD</text>
+
+    <!-- Subtitle — below name -->
+    <text x="55" y="175" fill="#888888" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2.5">LEARNING OPERATIONS  ·  AI ENABLEMENT  ·  PRODUCT SYSTEMS</text>
 
     <!-- Divider -->
-    <line x1="30" y1="105" x2="870" y2="105" stroke="#2a2a2a" stroke-width="1"/>
+    <line x1="55" y1="200" x2="845" y2="200" stroke="#2a2a2a" stroke-width="1"/>
 
     <!-- Tagline -->
-    <text x="130" y="138" fill="#cc2200" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic">Clarity precedes scale.</text>
+    <text x="55" y="235" fill="#cc2200" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">Clarity precedes scale.</text>
 
     <!-- Watermark -->
-    <text x="870" y="165" fill="#444444" font-family="Georgia, 'Times New Roman', serif" font-size="11" text-anchor="end">opsided.com</text>
+    <text x="845" y="262" fill="#444444" font-family="Georgia, 'Times New Roman', serif" font-size="12" text-anchor="end">opsided.com</text>
   </g>
 </svg>
