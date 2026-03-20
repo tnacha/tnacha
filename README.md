@@ -38,7 +38,7 @@ I build the **systems behind learning at scale** — operating models, workforce
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>Portfolio</strong><br/>
   Learning ops & AI work — full case studies<br/>
-  <a href="https://opsided.com"><code>View</code></a>
+  <a href="https://github.com/tnacha/portfolio"><code>View</code></a>
 </td>
 </tr>
 </table>
