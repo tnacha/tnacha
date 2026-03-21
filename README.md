@@ -43,4 +43,4 @@ I build the **systems behind learning at scale** — operating models, workforce
 
 <h4>CONNECT</h4>
 
-<a href="https://opsided.com">opsided.com</a> &nbsp;&nbsp; <a href="https://linkedin.com/in/tanacha">LinkedIn</a> &nbsp;&nbsp; <a href="https://opsided.com">Portfolio</a>
+<a href="https://opsided.com">opsided.com</a> &nbsp;&nbsp; <a href="https://linkedin.com/in/tanacha">LinkedIn</a> &nbsp;&nbsp; <a href="https://github.com/tnacha/portfolio">Portfolio</a>
