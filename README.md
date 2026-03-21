@@ -6,10 +6,6 @@ I build the **systems behind learning at scale** — operating models, workforce
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Enablement-222222?style=flat-square&labelColor=222222&color=222222&logo=data:image/svg+xml;base64,&label=&message=AI%20Enablement" alt="AI Enablement" />
-</p>
-
 `AI Enablement` `Learning Operations` `Workforce Architecture` `Product Systems` `Change Management`
 
 ---
@@ -19,26 +15,26 @@ I build the **systems behind learning at scale** — operating models, workforce
 <table>
 <tr>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
+  <strong>Portfolio</strong><br/>
+  Learning ops & AI work — full case studies<br/>
+  <a href="https://github.com/tnacha/portfolio"><code>View</code></a>
+</td>
+<td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>Lightway</strong><br/>
   Advocacy engagement platform — progressive behavior model<br/>
   <a href="https://lightandcover.org/lightway"><code>Live, Beta</code></a>
 </td>
+</tr>
+<tr>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>Stress Quest</strong><br/>
   Workplace resilience learning game<br/>
   <a href="https://stress-quest-game.web.app"><code>Live, Beta</code></a>
 </td>
-</tr>
-<tr>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>HILT</strong><br/>
   Human-in-the-loop AI training for learning designers<br/>
   <code>In Development</code>
-</td>
-<td style="border-left: 3px solid #cc2200; padding: 12px;">
-  <strong>Portfolio</strong><br/>
-  Learning ops & AI work — full case studies<br/>
-  <a href="https://github.com/tnacha/portfolio"><code>View</code></a>
 </td>
 </tr>
 </table>
