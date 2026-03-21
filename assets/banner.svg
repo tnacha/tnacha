@@ -12,18 +12,6 @@
     <!-- Right red bar -->
     <rect x="895" y="0" width="5" height="280" fill="#cc2200"/>
 
-    <!-- Glasses icon — larger, top-left -->
-    <!-- Left lens -->
-    <circle cx="80" cy="70" r="24" fill="none" stroke="#cc2200" stroke-width="3"/>
-    <!-- Right lens -->
-    <circle cx="140" cy="70" r="24" fill="none" stroke="#cc2200" stroke-width="3"/>
-    <!-- Bridge -->
-    <path d="M104 64 Q110 54 116 64" fill="none" stroke="#cc2200" stroke-width="3"/>
-    <!-- Left arm -->
-    <line x1="56" y1="64" x2="30" y2="58" stroke="#cc2200" stroke-width="3" stroke-linecap="round"/>
-    <!-- Right arm -->
-    <line x1="164" y1="64" x2="190" y2="58" stroke="#cc2200" stroke-width="3" stroke-linecap="round"/>
-
     <!-- Name — below glasses -->
     <text x="55" y="140" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="bold">Tanacha Gaines, EdD</text>
 
