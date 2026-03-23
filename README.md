@@ -22,14 +22,17 @@ I build the **systems behind learning at scale** — operating models, workforce
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>Lightway</strong><br/>
   [Vibe Coding] Advocacy engagement platform — progressive behavior model<br/>
-  <a href="https://lightandcover.org/lightway"><code>Live, Beta</code></a>
+  <a href="https://lightandcover.org/lightway">
+    <img src="https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white"/>
+  </a>
 </td>
 </tr>
 <tr>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>Stress Quest</strong><br/>
   [Vibe Coding] Workplace resilience learning game<br/>
-  <a href="https://stress-quest-game.web.app"><code>Live, Beta</code></a>
+  <a href="https://stress-quest-game.web.app"><img src="https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white"/>
+  </a>
 </td>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>HILT</strong><br/>
