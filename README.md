@@ -21,19 +21,19 @@ I build the **systems behind learning at scale** — operating models, workforce
 </td>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>Lightway</strong><br/>
-  Advocacy engagement platform — progressive behavior model<br/>
+  [Vibe Coding] Advocacy engagement platform — progressive behavior model<br/>
   <a href="https://lightandcover.org/lightway"><code>Live, Beta</code></a>
 </td>
 </tr>
 <tr>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>Stress Quest</strong><br/>
-  Workplace resilience learning game<br/>
+  [Vibe Coding] Workplace resilience learning game<br/>
   <a href="https://stress-quest-game.web.app"><code>Live, Beta</code></a>
 </td>
 <td style="border-left: 3px solid #cc2200; padding: 12px;">
   <strong>HILT</strong><br/>
-  Human-in-the-loop AI training for learning designers<br/>
+  [Vibe Coding] Human-in-the-loop AI training for learning designers<br/>
   <code>In Development</code>
 </td>
 </tr>
