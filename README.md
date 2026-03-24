@@ -10,37 +10,47 @@ I build the **systems behind learning at scale** — operating models, workforce
 
 ---
 
-<h4>CURRENT PROJECTS</h4>
+## Selected Work
+
+*From enterprise operations to independent experiments*
 
 <table>
 <tr>
-<td style="border-left: 3px solid #cc2200; padding: 12px;">
-  <strong>Portfolio</strong><br/>
-  Learning ops & AI work — full case studies<br/>
-  <a href="https://github.com/tnacha/portfolio"><code>View</code></a>
+<td width="33%">
+<sup>AT WORK</sup>
+
+**GAIA Platform Training Strategy**
+Building training for an internal AI platform used by learning, sales, and solutions teams to activate course inventory.
+
+![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
+
 </td>
-<td style="border-left: 3px solid #cc2200; padding: 12px;">
-  <strong>Lightway</strong><br/>
-  [Vibe Coding] Advocacy engagement platform — progressive behavior model<br/>
-  <a href="https://lightandcover.org/lightway">
-    <img src="https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white"/>
-  </a>
+<td width="33%">
+<sup>INDEPENDENT</sup>
+
+**[Lightway](https://lightandcover.org/lightway)**
+Advocacy engagement platform guiding users through progressive levels of behavior change.
+
+![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white)
+
 </td>
-</tr>
-<tr>
-<td style="border-left: 3px solid #cc2200; padding: 12px;">
-  <strong>Stress Quest</strong><br/>
-  [Vibe Coding] Workplace resilience learning game<br/>
-  <a href="https://stress-quest-game.web.app"><img src="https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white"/>
-  </a>
-</td>
-<td style="border-left: 3px solid #cc2200; padding: 12px;">
-  <strong>HILT</strong><br/>
-  [Vibe Coding] Human-in-the-loop AI training for learning designers<br/>
-  <code>In Development</code>
+<td width="33%">
+<sup>INDEPENDENT</sup>
+
+**[Stress Quest](https://stress-quest-game.web.app)**
+Workplace resilience learning game applying experiential design to stress management.
+
+![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white)
+
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[![See full portfolio](https://img.shields.io/badge/See%20full%20portfolio%20%E2%86%92-eeedeb?style=for-the-badge&color=eeedeb&labelColor=eeedeb&logoColor=cc2200)](https://github.com/tnacha/portfolio)
+
+</div>
 
 ---
 
