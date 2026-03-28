@@ -48,7 +48,7 @@ Workplace resilience learning game applying experiential design to stress manage
 
 <div align="center">
 
-[See full portfolio →](https://github.com/tnacha/portfolio)
+<a href="https://github.com/tnacha/portfolio"><kbd>See full portfolio →</kbd></a>
 
 </div>
 
