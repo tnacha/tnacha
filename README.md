@@ -16,8 +16,8 @@ I build the **systems behind learning at scale** — operating models, workforce
 
 <table>
 <tr>
-<td width="33%">
-<sup>AT WORK</sup>
+<td width="33%" valign="top">
+<sup><strong>AT WORK</strong></sup>
 
 **GAIA Platform Training Strategy**
 Building training for an internal AI platform used by learning, sales, and solutions teams to activate course inventory.
@@ -25,8 +25,8 @@ Building training for an internal AI platform used by learning, sales, and solut
 <kbd>Active</kbd>
 
 </td>
-<td width="33%">
-<sup>INDEPENDENT</sup>
+<td width="33%" valign="top">
+<sup><strong>INDEPENDENT</strong></sup>
 
 **[Lightway](https://lightandcover.org/lightway)**
 Advocacy engagement platform guiding users through progressive levels of behavior change.
@@ -34,8 +34,8 @@ Advocacy engagement platform guiding users through progressive levels of behavio
 <kbd>Live, Beta</kbd>
 
 </td>
-<td width="33%">
-<sup>INDEPENDENT</sup>
+<td width="33%" valign="top">
+<sup><strong>INDEPENDENT</strong></sup>
 
 **[Stress Quest](https://stress-quest-game.web.app)**
 Workplace resilience learning game applying experiential design to stress management.
