@@ -22,7 +22,7 @@ I build the **systems behind learning at scale** — operating models, workforce
 **GAIA Platform Training Strategy**
 Building training for an internal AI platform used by learning, sales, and solutions teams to activate course inventory.
 
-![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
+<kbd>Active</kbd>
 
 </td>
 <td width="33%">
@@ -31,7 +31,7 @@ Building training for an internal AI platform used by learning, sales, and solut
 **[Lightway](https://lightandcover.org/lightway)**
 Advocacy engagement platform guiding users through progressive levels of behavior change.
 
-![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white)
+<kbd>Live, Beta</kbd>
 
 </td>
 <td width="33%">
@@ -40,7 +40,7 @@ Advocacy engagement platform guiding users through progressive levels of behavio
 **[Stress Quest](https://stress-quest-game.web.app)**
 Workplace resilience learning game applying experiential design to stress management.
 
-![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white)
+<kbd>Live, Beta</kbd>
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ Workplace resilience learning game applying experiential design to stress manage
 
 <div align="center">
 
-[![See full portfolio](https://img.shields.io/badge/See%20full%20portfolio%20%E2%86%92-eeedeb?style=for-the-badge&color=eeedeb&labelColor=eeedeb&logoColor=cc2200)](https://github.com/tnacha/portfolio)
+[See full portfolio →](https://github.com/tnacha/portfolio)
 
 </div>
 
