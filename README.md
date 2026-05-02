@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="Tanacha Gaines" width="900" />
 </p>
 
-I build the **systems behind learning at scale** — operating models, workforce architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
+I build the **systems behind learning and product at scale** — operating models, workforce architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
 
 ---
 
