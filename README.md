@@ -26,10 +26,10 @@ A standby-bench onboarding and readiness model for contract learning designers â
 
 </td>
 <td width="33%" valign="top">
-<sup><strong>INDEPENDENT</strong></sup>
+<sup><strong>FOUNDER</strong></sup>
 
 **[Lightway](https://lightandcover.org/lightway)**
-Advocacy engagement platform guiding users through progressive levels of behavior change.
+Self-directed advocacy app from Light and Cover, the community initiative I founded â€” I lead strategy, brand, product vision, and community partnerships.
 
 <kbd>Live, Beta</kbd>
 
