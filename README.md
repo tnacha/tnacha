@@ -2,11 +2,11 @@
   <img src="./assets/banner.svg" alt="Tanacha Gaines" width="900" />
 </p>
 
-I build the **systems behind learning and product at scale**: operating models, workforce architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
+I build the **systems behind adoption, enablement, and product at scale**: operating models, capability architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
 
 ---
 
-`AI Enablement` `Learning Operations` `Workforce Architecture` `Product Systems` `Change Management`
+`AI Enablement` `Change Management` `Technology Adoption` `Product Systems` `Capability Architecture` `Learning Operations`
 
 ---
 
@@ -32,4 +32,4 @@ I build the **systems behind learning and product at scale**: operating models, 
 
 <h4>CONNECT</h4>
 
-<a href="https://opsided.com">opsided.com</a> &nbsp;&nbsp; <a href="https://linkedin.com/in/tanacha">LinkedIn</a> &nbsp;&nbsp; <a href="https://github.com/tnacha/portfolio">Portfolio</a>
+<a href="https://opsided.com">opsided.com</a> &nbsp;&nbsp; <a href="https://linkedin.com/in/tanacha">LinkedIn</a> &nbsp;&nbsp; <a href="https://github.com/tnacha/portfolio">Portfolio</a> &nbsp;&nbsp; <a href="https://github.com/tnacha/resume">Resume</a>
