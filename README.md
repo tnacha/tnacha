@@ -2,11 +2,11 @@
   <img src="./assets/banner.svg" alt="Tanacha Gaines" width="900" />
 </p>
 
-I build the **systems behind adoption, enablement, and product at scale**: operating models, capability architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
+I build the **systems behind technology adoption and enterprise transformation at scale**: operating models, capability architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
 
 ---
 
-`AI Enablement` `Change Management` `Technology Adoption` `Product Systems` `Capability Architecture` `Learning Operations`
+`Technology Adoption & Enablement` `Change Management` `Transformation` `Product Systems` `Capability Architecture` `AI Enablement`
 
 ---
 
