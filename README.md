@@ -17,12 +17,12 @@ I build the **systems behind learning and product at scale** — operating model
 <table>
 <tr>
 <td width="33%" valign="top">
-<sup><strong>AT WORK</strong></sup>
+<sup><strong>CASE STUDY</strong></sup>
 
-**GAIA Platform Training Strategy**
-Building training for an internal AI platform used by learning, sales, and solutions teams to activate course inventory.
+**[Contractor Pool Onboarding & Readiness](https://github.com/tnacha/portfolio/blob/main/contractor-pool-readiness-program.md)**
+A standby-bench onboarding and readiness model for contract learning designers — credited with $650K+ in cost avoidance.
 
-<kbd>Active</kbd>
+<kbd>Published</kbd>
 
 </td>
 <td width="33%" valign="top">
@@ -35,12 +35,12 @@ Advocacy engagement platform guiding users through progressive levels of behavio
 
 </td>
 <td width="33%" valign="top">
-<sup><strong>INDEPENDENT</strong></sup>
+<sup><strong>COMMUNITY</strong></sup>
 
-**[Stress Quest](https://stress-quest-game.web.app)**
-Workplace resilience learning game applying experiential design to stress management.
+**[Workshop Design Guide](https://app.notion.com/p/Workshop-Design-Guide-19dbb17f9f7d8053b5cddf3fd6c62202)**
+L&D Shakers community guide to the eight elements of workshop design — named practitioner contributor.
 
-<kbd>Live, Beta</kbd>
+<kbd>Contributor</kbd>
 
 </td>
 </tr>
