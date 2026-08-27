@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="Tanacha Gaines" width="900" />
 </p>
 
-I build the **systems behind learning and product at scale** — operating models, workforce architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
+I build the **systems behind learning and product at scale**: operating models, workforce architecture, and AI-enabled workflows that make enterprise delivery visible, governable, and built to compound. 15+ years across consulting, product, and operations.
 
 ---
 
@@ -16,9 +16,9 @@ I build the **systems behind learning and product at scale** — operating model
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/tnacha/portfolio/blob/main/contractor-pool-readiness-program.md"><img src="./assets/card-case-study.svg" alt="Case study: Contractor Pool Onboarding and Readiness — $650K+ cost avoidance"></a></td>
-<td width="33%" valign="top"><a href="https://lightandcover.org/lightway"><img src="./assets/card-lightway.svg" alt="Lightway — self-directed advocacy app by Light and Cover, which I founded"></a></td>
-<td width="33%" valign="top"><a href="https://app.notion.com/p/Workshop-Design-Guide-19dbb17f9f7d8053b5cddf3fd6c62202"><img src="./assets/card-wdg.svg" alt="Workshop Design Guide — L&D Shakers community resource, named contributor"></a></td>
+<td width="33%" valign="top"><a href="https://github.com/tnacha/portfolio/blob/main/contractor-pool-readiness-program.md"><img src="./assets/card-case-study.svg" alt="Case study: Contractor Pool Onboarding and Readiness, $650K+ cost avoidance"></a></td>
+<td width="33%" valign="top"><a href="https://lightandcover.org/lightway"><img src="./assets/card-lightway.svg" alt="Lightway, self-directed advocacy app by Light and Cover, which I founded"></a></td>
+<td width="33%" valign="top"><a href="https://app.notion.com/p/Workshop-Design-Guide-19dbb17f9f7d8053b5cddf3fd6c62202"><img src="./assets/card-wdg.svg" alt="Workshop Design Guide, L&D Shakers community resource, named contributor"></a></td>
 </tr>
 </table>
 
