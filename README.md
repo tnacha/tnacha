@@ -6,7 +6,7 @@ I build the **systems behind technology adoption and enterprise transformation a
 
 ---
 
-`Technology Adoption & Enablement` `Change Management` `Transformation` `Product Systems` `Capability Architecture` `AI Enablement`
+`Technology Adoption & Enablement` `Change Management` `Transformation` `Product Systems` `Capability Architecture` `Learning Operations` `AI Enablement`
 
 ---
 
